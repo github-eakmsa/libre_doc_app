@@ -1,0 +1,11 @@
+# Virtual environment
+app_env/
+# Byte-compiled files
+*.pyc
+*.pyo
+__pycache__/
+# IDE settings
+.idea/
+.vscode/
+# Environment files
+.env
